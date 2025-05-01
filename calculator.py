@@ -12,3 +12,8 @@ int a = 4;
 int b = 3;
 int multi = a*b;
 Console.WriteLine("The multiplication of two numbers is + multi")
+
+int a = 20;
+int b = 10;
+int div = a/b;
+Console.WriteLine("The division of two numbers is + div")
